@@ -28,12 +28,12 @@ My target is to solve **500+ LeetCode problems** with a focus on understanding t
 
 | Difficulty   | Solved |
 | ------------ | -----: |
-| 🟢 Easy      |     36 |
+| 🟢 Easy      |     37 |
 | 🟡 Medium    |     10 |
 | 🔴 Hard      |     01 |
-| **🔥 Total** | **47** |
+| **🔥 Total** | **48** |
 
-**Progress:** `47 / 500+`
+**Progress:** `48 / 500+`
 
 ---
 
@@ -54,6 +54,9 @@ My target is to solve **500+ LeetCode problems** with a focus on understanding t
 | Day 11 |               1 |
 | Day 12 |               3 |
 | Day 13 |               2 |
+| Day 14 |               1 |
+| Day 15 |               2 |
+| Day 16 |               2 |
 
 
 > 📌 Every problem is first solved on **LeetCode** and then organized here for future revision.
